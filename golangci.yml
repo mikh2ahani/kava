@@ -49,4 +49,4 @@ linters-settings:
     max-blank-identifiers: 3
   maligned:
     # print struct with more effective memory layout or not, false by default
-    suggest-new: true
+    suggest-new: false
